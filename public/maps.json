@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Dust II",
+    "thumbnail": "/maps/dust_2.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 2,
+    "name": "Mirage",
+    "thumbnail": "/maps/mirage.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 3,
+    "name": "Train",
+    "thumbnail": "/maps/train.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 4,
+    "name": "Nuke",
+    "thumbnail": "/maps/nuke.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 5,
+    "name": "Overpass",
+    "thumbnail": "/maps/overpass.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 6,
+    "name": "Inferno",
+    "thumbnail": "/maps/inferno.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 7,
+    "name": "Ancient",
+    "thumbnail": "/maps/ancient.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 7,
+    "name": "Ancient",
+    "thumbnail": "/maps/ancient.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 8,
+    "name": "Vertigo",
+    "thumbnail": "/maps/vertigo.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  },
+  {
+    "id": 9,
+    "name": "Anubis",
+    "thumbnail": "/maps/anubis.avis",
+    "typ": "active-duty-pool",
+    "typ-full-name": "Active Duty Pool"
+  }
+]
